@@ -59,7 +59,16 @@ Technical Skills
 * **Web Programming** : JavaScript, HTML5, CSS, BootsTrap, ReactJS
 * Git and GitHub
 
+Research Interest
+======
+* Machine Learning
+* Deep Learning
+* Image Processing
+* Natural Language Processing
+* Data Science Projects
 
-
+Certifications
+======
+* [Link text Here](https://link-url-here.org)
   
 
