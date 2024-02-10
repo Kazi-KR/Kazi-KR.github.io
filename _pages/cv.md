@@ -76,5 +76,10 @@ Certifications
 * Applied Machine Learning in Python- Coursera [Link](https://coursera.org/share/1c6bca12088e011bdc4ef069e29a54e7)
 * Applied Plotting, Charting & Data Representation in Python- Coursera [Link](https://coursera.org/share/274be211c7698f4390afaa6189de87c6)
 
+Honors & Awards
+======
+* [Completed Bachelor's with Highest Distinction, Brac University](https://www.bracu.ac.bd/academics/office-registrar/policies-and-procedures/academic-standings-and-honors)
+    * Awarded to candidates whose CGPA is 3.80 or higher.
+*
   
 
