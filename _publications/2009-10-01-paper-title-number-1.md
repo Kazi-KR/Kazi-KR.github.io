@@ -1,13 +1,15 @@
 ---
-title: "KDANet: Handwritten Character Recognition for Bangla Language using Deep Learning"
+title: "Paper Title Number 2"
 collection: publications
-permalink:
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2023-03-03
-venue: 'ICCIT, 2022'
-paperurl: 'https://ieeexplore.ieee.org/document/10054708'
-citation: 'K. K. Rabbi, A. Hossain, P. Dev, A. Sadman, D. Z. Karim and A. A. Rasel, "KDANet: Handwritten Character Recognition for Bangla Language using Deep Learning," 2022 25th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2022, pp. 651-656, doi: 10.1109/ICCIT57492.2022.10054708.'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-Character recognition is the numerical conversion of images in typed, handwritten, or printed format which allows a computer to recognize them. Bangla is one of the most complex languages as it has so many characters and digits. Moreover, the Bangla language has about 300 composite characters. That is why the extraction of characters from images is more di cult for Bangla compared to other languages. Deep learning has recently developed good capabilities for extracting high-level features from an image kernel. These systems learn more accurate and inclusive features from large-scale training datasets than earlier feature extraction techniques. This paper introduces a custom deep learning model to recognize handwritten Bangla characters and compares it with popular deep learning models that recognize handwritten characters. BanglaLekha Isolated dataset has been used to train and compare these models. Our proposed model KDANet was trained on 72,500 images containing primary characters and obtained an accuracy of 98.10% on the BanglaLekha Isolated dataset with 98.12% f1-score.
+This paper is about the number 2. The number 3 is left for future work.
 
-Recommended citation: K. K. Rabbi, A. Hossain, P. Dev, A. Sadman, D. Z. Karim and A. A. Rasel, "KDANet: Handwritten Character Recognition for Bangla Language using Deep Learning," 2022 25th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2022, pp. 651-656, doi: 10.1109/ICCIT57492.2022.10054708.
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
