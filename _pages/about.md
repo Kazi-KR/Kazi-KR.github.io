@@ -12,4 +12,4 @@ I have completed my B.Sc. in Computer Science at [BRAC University](https://www.b
 
 I am always open to collaborations, discussions and new opportunities in the fascinating world where technology meets human understanding. Looking forward to connecting with fellow enthusiasts and innovators!
 
-To know about my skills and experiences check [CV](https://kazi-kr.github.io/cv/). You can check [blogs](https://kazi-kr.github.io/blogs/) to get the update of my recent studies and projects. 
+To know about my skills and experiences check my [CV](https://kazi-kr.github.io/cv/). You can check [blogs](https://kazi-kr.github.io/blogs/) to get the update of my recent studies and projects. 
