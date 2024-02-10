@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 Education
----
 ======
 * B.S. in CSE, BRAC University, 2021 (CGPA-3.90)
 * M.S. in CSE, BRAC University (Ongoing)
@@ -60,10 +59,7 @@ Technical Skills
 * **Web Programming** : JavaScript, HTML5, CSS, BootsTrap, ReactJS
 * Git and GitHub
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+
   
 
