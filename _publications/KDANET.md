@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/KDANET
 excerpt: 'This paper is about '
 date: 2023-03-03
-venue: 'ICCIT,2022'
+venue: 'ICCIT'
 paperurl: ''
 citation: ''
 ---
