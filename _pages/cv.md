@@ -32,11 +32,11 @@ Work experience
         
 * **Contractual Lecturer** : BRAC University (October 2022- May 2023)
    * **Course Taught**:
-    * Programming Language I (Fall 2022)
-    * Programming Language II (Object Oriented Programming) (Fall 2022, Spring 2023)
-    * Data Structure (Fall 2022)
-    * Algorithms (Fall 2022, Spring 2023)
-    * System Analysis and Design (Spring 2023)
+      * Programming Language I (Fall 2022)
+      * Programming Language II (Object Oriented Programming) (Fall 2022, Spring 2023)
+      * Data Structure (Fall 2022)
+      * Algorithms (Fall 2022, Spring 2023)
+      * System Analysis and Design (Spring 2023)
 
    * **Responsibilities** :
       * Conducting Lab Classes.
