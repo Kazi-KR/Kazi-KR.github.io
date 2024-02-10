@@ -18,6 +18,11 @@ Work experience
 ======
 
 * Lecturer : University of Information Technology and Sciences (UITS)
+  * **Course Taught**:
+    * Introduction to Programming Language
+    * Data Structure and Algorithms II
+    * Database Management System Lab
+    * Numerical Analysis
 
 * Contractual Lecturer : BRAC University
 
