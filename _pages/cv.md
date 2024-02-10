@@ -80,6 +80,10 @@ Honors & Awards
 ======
 * [Completed Bachelor's with Highest Distinction, Brac University](https://www.bracu.ac.bd/academics/office-registrar/policies-and-procedures/academic-standings-and-honors)
     * Awarded to candidates whose CGPA is 3.80 or higher.
-*
-  
+* [Vice Chancellor's List and Dean's List Award, Brac University](https://www.bracu.ac.bd/academics/office-registrar/policies-and-procedures/academic-standings-and-honors) 
+   * Got placed on VC's List for 7 semesters as recognition of achieving a GPA of 3.90-4.00 on those particular semesters.
+   * Got placed on Dean's List for 4 semesters as recognition of achieving a GPA of 3.70-3.89 on those particular semesters.
+* Vice Chancellor's Certificate for Residential Semester, Brac University 
+   * Vice Chancellor's Certificate for high standard of Discipline and Devotion during Residential Semester at BRAC University (Savar Campus)
+* Merit Based Scholarship, Brac University 
 
