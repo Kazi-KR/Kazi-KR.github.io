@@ -69,12 +69,12 @@ Research Interest
 
 Certifications
 ======
-* Professional Python Data Science Certification || IBM [Link](https://credentials.edx.org/credentials/36557a6046e9445fad52c3f6bfdcb6f8/)
-* Neural Networks and Deep Learning || Deeplearning.ai [Link](https://coursera.org/share/1c6bca12088e011bdc4ef069e29a54e7)
-* Convolutional Neural Networks || Deeplearning.ai [Link](https://coursera.org/share/f5ee9449ebb55d0f078c5c36e7a98545)
-* Structuring Machine Learning Projects || Deeplearning.ai [Link](https://coursera.org/share/1c6bca12088e011bdc4ef069e29a54e7)
-* Applied Machine Learning in Python || Coursera [Link](https://coursera.org/share/1c6bca12088e011bdc4ef069e29a54e7)
-* Applied Plotting, Charting & Data Representation in Python || Coursera [Link](https://coursera.org/share/274be211c7698f4390afaa6189de87c6)
+* Professional Python Data Science Certification | IBM [Link](https://credentials.edx.org/credentials/36557a6046e9445fad52c3f6bfdcb6f8/)
+* Neural Networks and Deep Learning | Deeplearning.ai [Link](https://coursera.org/share/1c6bca12088e011bdc4ef069e29a54e7)
+* Convolutional Neural Networks | Deeplearning.ai [Link](https://coursera.org/share/f5ee9449ebb55d0f078c5c36e7a98545)
+* Structuring Machine Learning Projects | Deeplearning.ai [Link](https://coursera.org/share/1c6bca12088e011bdc4ef069e29a54e7)
+* Applied Machine Learning in Python | Coursera [Link](https://coursera.org/share/1c6bca12088e011bdc4ef069e29a54e7)
+* Applied Plotting, Charting & Data Representation in Python | Coursera [Link](https://coursera.org/share/274be211c7698f4390afaa6189de87c6)
 
   
 
