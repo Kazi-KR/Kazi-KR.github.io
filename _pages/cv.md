@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
+---
 ======
 * B.S. in CSE, BRAC University, 2021 (CGPA-3.90)
 * M.S. in CSE, BRAC University (Ongoing)
