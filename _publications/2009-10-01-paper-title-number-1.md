@@ -2,6 +2,7 @@
 title: "KDANet: Handwritten Character Recognition for Bangla Language using Deep Learning"
 collection: publications
 permalink:
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-03-03
 venue: 'ICCIT, 2022'
 paperurl: 'https://ieeexplore.ieee.org/document/10054708'
