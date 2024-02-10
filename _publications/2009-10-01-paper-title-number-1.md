@@ -1,8 +1,8 @@
 ---
 title: "KDANet: Handwritten Character Recognition for Bangla Language using Deep Learning"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: /publication/KDANET
+excerpt: 'This paper is about '
 date: 2023-03-03
 venue: 'ICCIT,2022'
 paperurl: ''
