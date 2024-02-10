@@ -1,7 +1,7 @@
 ---
 title: "KDANet: Handwritten Character Recognition for Bangla Language using Deep Learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink:
 date: 2023-03-03
 venue: 'ICCIT, 2022'
 paperurl: 'https://ieeexplore.ieee.org/document/10054708'
