@@ -56,7 +56,7 @@ Work experience
 Technical Skills
 ======
 * **Languages Proficient** : Python, JavaScript, Java, SQL 
-* **Library** : TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, SciPy 
+* **Library** : TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, SciPy, HugiingFace
 * **Web Programming** : JavaScript, HTML5, CSS, BootsTrap, ReactJS
 * Git and GitHub
 
