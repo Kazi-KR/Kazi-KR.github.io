@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in CSE, BRAC University, 2021
+* B.S. in CSE, BRAC University, 2021 (CGPA-3.90)
 * M.S. in CSE, BRAC University (Ongoing)
 
 Work experience
@@ -52,14 +52,12 @@ Work experience
 
 
   
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Languages Proficient** : Python, JavaScript, Java, SQL 
+* **Library** : TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, SciPy 
+* **Web Programming** : JavaScript, HTML5, CSS, BootsTrap, ReactJS
+* Git and GitHub
 
 Publications
 ======
@@ -67,18 +65,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
