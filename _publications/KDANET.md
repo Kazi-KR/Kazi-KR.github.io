@@ -2,7 +2,7 @@
 title: "KDANet: Handwritten Character Recognition for Bangla Language using Deep Learning"
 collection: publications
 permalink: /publication/KDANET
-excerpt: 'This paper is about '
+excerpt: 'This paper introduces a custom deep learning model to recognize handwritten Bangla characters and compares it with popular deep learning models that recognize handwritten characters. '
 date: 2023-03-03
 venue: 'ICCIT'
 paperurl: ''
